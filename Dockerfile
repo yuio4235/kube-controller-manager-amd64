@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kube-controller-manager-amd64:v1.17.0
+FROM gcr.io/google-containers/kube-controller-manager:v1.18.3
 MAINTAINER Danny.Zhang
